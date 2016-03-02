@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
   s.summary      = "Back to target quit viewController animatable."
 
   s.description = %{
-     Back to target quit viewController animatable.
+     Sometimes we have to back to a specified viewController, then we can use this lib, tag a target quit viewController, and then back to it animatable. 
   }	
   s.homepage     = "https://github.com/linzhilong/TargetQuitViewController"
 
