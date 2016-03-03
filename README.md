@@ -1,7 +1,7 @@
 # TargetQuitViewController
 Back to target quit vc animatable.
 
-pod 'TargetQuitViewController' to setup.
+pod 'TargetQuitViewController' to install.
 
 #import "UIViewController+TargetQuitViewController.h"
 
