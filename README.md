@@ -1,6 +1,8 @@
 # TargetQuitViewController
 Back to target quit vc animatable.
 
+pod 'TargetQuitViewController' to setup.
+
 #import "UIViewController+TargetQuitViewController.h"
 
 UIViewController *tmpVC = [what vc you want to back to]; 
